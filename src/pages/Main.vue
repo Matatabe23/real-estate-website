@@ -2,7 +2,7 @@
 <div class="Main">
 	<div class="Main-height">
 		<div class="Main-BG">
-			<h1>Недвижемость по низким ценам!</h1>
+			<h1>Недвижимость по лучшим ценам на рынке!</h1>
 		</div>
 	</div>
 	<div class="Main-center">
@@ -20,7 +20,7 @@ export default {
 <style scoped>
 
 .Main-height{
-	background-image: url(@/assets/image/Main/MainBg.jpg);
+	background-image: url(@/assets/image/Main/BG.jpeg);
 	height: 100vh;
 	background-repeat: no-repeat;
 	background-size: cover;

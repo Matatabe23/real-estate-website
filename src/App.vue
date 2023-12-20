@@ -18,6 +18,11 @@ export default {
 	box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 body {
 	/* background-image: url(assets/image/BG.jpg);
 	height: 100vh;
@@ -27,7 +32,7 @@ body {
 }
 
 :root {
-  --main-color: #0084ff;
-	--main-color-shadow: #4800ff;
+  --TopPanel-color: #ffffff;
+	--TopPanel-color-shadow: #000000;
 }
 </style>
