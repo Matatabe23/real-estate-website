@@ -1,5 +1,5 @@
 <template>
-	<nav class="navbar navbar-expand-lg navbar-light">
+	<nav class="navbar navbar-expand-lg">
 		<div class="container">
 			<a class="navbar-brand" @click="$router.push('/')">Realty</a>
 			<button class="navbar-toggler custom-toggler ml-auto" type="button" data-bs-toggle="collapse"
